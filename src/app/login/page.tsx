@@ -38,12 +38,13 @@ export default function Page() {
         }}
       >
         <div className="absolute -top-20 left-0 right-0 mx-auto grid w-min place-content-center rounded-full bg-slate-700 p-4 backdrop-blur-2xl ">
-          <div className="grid h-32 w-32 place-content-center rounded-full bg-black">
+          <div className="grid h-32 w-32 place-content-center rounded-full bg-white">
             <Image
-              src="/Images/MMJ-Branding.png"
+              src="/Images/CapsulaBranding-C.png"
               alt="Logo"
               width={96}
               height={48}
+              className='rounded-full'
             />
           </div>
         </div>

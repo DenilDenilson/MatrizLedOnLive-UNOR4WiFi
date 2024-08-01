@@ -3,7 +3,7 @@ export default function Footer () {
     <nav>
       <div className="mx-auto max-w-7xl flex items-center justify-center p-8">
         <p className="text-sm font-semibold">
-          MMJ Smart Electronics
+          Cápsula electrónica
         </p>
       </div>
     </nav>
